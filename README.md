@@ -1,8 +1,8 @@
-# Project : Video Game Data ETL Process
+# ETL Process Using a Video Game Dataset
 
 ## Team Members:
-●	Moore, Ashley
 ●	Johnson, Joseph
+●	Moore, Ashley
 ●	Patel, Vinika
 ●	Bedwell, Jenny
 ●	Benedict, Robert
